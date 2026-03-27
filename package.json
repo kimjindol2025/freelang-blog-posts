@@ -1,0 +1,24 @@
+{
+  "name": "blogger-automation",
+  "version": "1.0.0",
+  "description": "Google Blogger API v3를 이용한 FreeLang 블로그 자동 포스팅 시스템",
+  "main": "oauth-setup.js",
+  "scripts": {
+    "setup": "node oauth-setup.js",
+    "check-blog": "node check-blog-id.js",
+    "post-1": "node blogger-post-freelang-1-intro.js",
+    "post-all": "bash publish-all.sh"
+  },
+  "dependencies": {
+    "googleapis": "^118.0.0",
+    "google-auth-library": "^9.0.0"
+  },
+  "keywords": [
+    "blogger",
+    "api",
+    "automation",
+    "freelang"
+  ],
+  "author": "FreeLang Team",
+  "license": "MIT"
+}
