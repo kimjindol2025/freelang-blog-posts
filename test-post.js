@@ -24,6 +24,9 @@ const postFiles = [
   'blogger-post-freelang-8-performance.js',
   'blogger-post-freelang-9-applythis.js',
   'blogger-post-freelang-10-roadmap.js',
+  'blogger-post-server-1-bankingsystem.js',
+  'blogger-post-server-2-backendproduction.js',
+  'blogger-post-server-3-restapi.js',
 ];
 
 console.log('╔════════════════════════════════════════════════════════════════╗');
