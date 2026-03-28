@@ -17,9 +17,31 @@ exclude:
   - .github
   - README.md
   - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - POSTING_GUIDE.md
+  - PROJECT_BLOG_STRATEGY.md
+
+# 모든 마크다운 파일(루트 포함)에 post 레이아웃 적용
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "post"
+      permalink: /:title/
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /:title/
 
 author:
   name: FreeLang Team
   email: info@freelang.dev
 
 show_excerpts: true
+
+# Pretty URLs (index.html 형태)
+permalink: /:title/
