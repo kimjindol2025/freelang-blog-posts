@@ -1,9 +1,32 @@
+# Dependencies
 node_modules/
+package-lock.json
+
+# Secrets & Credentials
+token.json
+credentials*.json
 .env
 .env.local
-.DS_Store
+
+# Logs
 *.log
+automation.log
+
+# Backups
+*.bak
+*.json.bak
+
+# Generated files
+statistics.json
+generation-log.json
+publishing-*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
 .vscode/
 .idea/
-credentials.json
-token.json
+*.swp
+*.swo
