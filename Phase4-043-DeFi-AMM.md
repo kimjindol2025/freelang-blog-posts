@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-043-DeFi-AMM
+date: 2026-03-28
+---
 # DeFi와 AMM: 스스로 가격을 정하는 프로토콜
 
 ## 요약

@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-036-Memory-Model-JMM
+date: 2026-03-28
+---
 # 메모리 모델과 JMM: 멀티스레드 프로그래밍의 기초
 
 ## 요약

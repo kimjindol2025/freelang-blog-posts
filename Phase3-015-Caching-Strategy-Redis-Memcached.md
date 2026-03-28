@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-015-Caching-Strategy-Redis-Memcached
+date: 2026-03-28
+---
 # 캐싱 전략: Redis vs Memcached 실전 비교
 
 ## 요약

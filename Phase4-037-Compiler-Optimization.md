@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-037-Compiler-Optimization
+date: 2026-03-28
+---
 # 컴파일러 최적화: 인라인, 루프 언롤, 불변식 제거
 
 ## 요약

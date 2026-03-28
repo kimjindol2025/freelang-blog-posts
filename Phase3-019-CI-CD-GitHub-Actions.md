@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-019-CI-CD-GitHub-Actions
+date: 2026-03-28
+---
 # CI/CD: GitHub Actions로 10초 배포 파이프라인 구축하기
 
 ## 요약

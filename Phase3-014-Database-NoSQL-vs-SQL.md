@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-014-Database-NoSQL-vs-SQL
+date: 2026-03-28
+---
 # 데이터베이스: NoSQL vs SQL 언제 뭘 쓸까?
 
 ## 요약

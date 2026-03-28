@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase2-008-Memory-Model-HappensBefore
+date: 2026-03-28
+---
 # Go 메모리 모델: Happens-Before 관계로 배우는 동시성의 안전성
 
 ## 요약

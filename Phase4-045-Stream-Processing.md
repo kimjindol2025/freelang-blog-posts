@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-045-Stream-Processing
+date: 2026-03-28
+---
 # 스트림 처리(Stream Processing): 실시간 데이터 파이프라인의 핵심
 
 ## 소개

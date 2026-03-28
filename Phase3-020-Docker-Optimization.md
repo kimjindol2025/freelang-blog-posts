@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-020-Docker-Optimization
+date: 2026-03-28
+---
 # Docker 최적화: 1GB → 50MB (20배 축소)
 
 ## 요약

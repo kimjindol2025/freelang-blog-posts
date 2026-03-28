@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-044-Eventual-Consistency
+date: 2026-03-28
+---
 # 최종 일관성(Eventual Consistency): 분산 시스템의 현실적 타협
 
 ## 소개

@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-030-Strace-Performance
+date: 2026-03-28
+---
 # 성능 분석: strace로 응답시간 1/10 단축하기
 
 ## 요약

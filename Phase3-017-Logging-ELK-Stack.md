@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-017-Logging-ELK-Stack
+date: 2026-03-28
+---
 # 로깅 시스템: ELK Stack으로 100GB 로그 처리하기
 
 ## 요약

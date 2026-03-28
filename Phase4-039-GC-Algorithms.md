@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-039-GC-Algorithms
+date: 2026-03-28
+---
 # GC 알고리즘 비교: Mark-Sweep, Generational, Concurrent
 
 ## 요약

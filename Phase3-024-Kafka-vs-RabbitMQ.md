@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-024-Kafka-vs-RabbitMQ
+date: 2026-03-28
+---
 # 메시징: Kafka vs RabbitMQ 완전 비교
 
 ## 요약

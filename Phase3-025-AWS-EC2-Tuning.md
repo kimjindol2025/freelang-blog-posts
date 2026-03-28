@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-025-AWS-EC2-Tuning
+date: 2026-03-28
+---
 # AWS EC2: 성능 튜닝과 비용 최적화
 
 ## 요약

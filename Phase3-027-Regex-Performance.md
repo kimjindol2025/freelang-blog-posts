@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-027-Regex-Performance
+date: 2026-03-28
+---
 # 정규표현식: 성능 최적화로 10배 가속화
 
 ## 요약

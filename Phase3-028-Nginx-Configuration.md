@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-028-Nginx-Configuration
+date: 2026-03-28
+---
 # Nginx: 설정 완벽 가이드 (50K req/sec)
 
 ## 요약

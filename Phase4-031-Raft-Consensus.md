@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-031-Raft-Consensus
+date: 2026-03-28
+---
 # Raft 합의 알고리즘: 분산 시스템의 심장
 
 ## 요약

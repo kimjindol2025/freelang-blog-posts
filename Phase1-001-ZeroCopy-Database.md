@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase1-001-ZeroCopy-Database
+date: 2026-03-28
+---
 # Zero-Copy 데이터베이스: SoA vs AoS 메모리 레이아웃으로 3.6배 성능 향상하기
 
 **작성**: 2026-03-27

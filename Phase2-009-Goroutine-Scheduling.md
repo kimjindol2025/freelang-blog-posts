@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase2-009-Goroutine-Scheduling
+date: 2026-03-28
+---
 # Go 런타임 스케줄링: 100만 고루틴을 관리하는 방법
 
 ## 요약

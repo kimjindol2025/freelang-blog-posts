@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-011-Memory-Safety-Rust-vs-Go
+date: 2026-03-28
+---
 # 메모리 안전성: Rust vs Go 완벽 비교
 
 ## 요약

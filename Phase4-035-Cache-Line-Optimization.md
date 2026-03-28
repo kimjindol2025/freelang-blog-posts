@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-035-Cache-Line-Optimization
+date: 2026-03-28
+---
 # CPU 캐시 라인 최적화: L1에서 메모리까지 1000배 차이
 
 ## 요약

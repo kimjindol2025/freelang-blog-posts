@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-034-SIMD-Vectorization
+date: 2026-03-28
+---
 # SIMD와 벡터화: AVX-512로 10배 가속화
 
 ## 요약

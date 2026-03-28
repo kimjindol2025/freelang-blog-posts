@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-026-Goroutine-vs-Thread
+date: 2026-03-28
+---
 # Goroutine vs Thread: 100만 동시 연결 비교
 
 ## 요약

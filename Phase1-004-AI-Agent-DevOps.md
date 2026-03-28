@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase1-004-AI-Agent-DevOps
+date: 2026-03-28
+---
 # AI 에이전트로 DevOps 자동화: 멀티프로세스 협업 아키텍처
 
 **작성**: 2026-03-27

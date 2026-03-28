@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-012-Kubernetes-Orchestration
+date: 2026-03-28
+---
 # Kubernetes 오케스트레이션: 컨테이너 관리 완벽 가이드
 
 ## 요약

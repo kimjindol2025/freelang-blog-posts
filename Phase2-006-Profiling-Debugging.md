@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase2-006-Profiling-Debugging
+date: 2026-03-28
+---
 # Profiling과 성능 분석: go tool pprof 마스터하기
 
 **작성**: 2026-03-27

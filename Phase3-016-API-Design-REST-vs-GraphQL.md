@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-016-API-Design-REST-vs-GraphQL
+date: 2026-03-28
+---
 # API 설계: REST vs GraphQL 완벽 비교
 
 ## 요약

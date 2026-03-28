@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase2-010-Real-World-Performance-Case-Study
+date: 2026-03-28
+---
 # 실전 성능 사례: 10배 느린 API 서버를 1초 안에 진단하고 고치기
 
 ## 요약

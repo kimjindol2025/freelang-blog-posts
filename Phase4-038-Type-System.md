@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-038-Type-System
+date: 2026-03-28
+---
 # 타입 시스템: Hindley-Milner vs Gradual Typing
 
 ## 요약

@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-040-Polymorphism
+date: 2026-03-28
+---
 # Polymorphism vs Generics: 성능과 유지보수성
 
 ## 요약

@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase1-002-Raft-Consensus
+date: 2026-03-28
+---
 # Raft 분산 합의: 1,500줄 코드로 배우는 합의 알고리즘
 
 **작성**: 2026-03-27

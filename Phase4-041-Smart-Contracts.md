@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-041-Smart-Contracts
+date: 2026-03-28
+---
 # 스마트 컨트랙트: 블록체인에서 코드가 법이 되다
 
 ## 요약

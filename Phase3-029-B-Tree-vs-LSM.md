@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-029-B-Tree-vs-LSM
+date: 2026-03-28
+---
 # 데이터 구조: B-Tree vs LSM 트레이드오프
 
 ## 요약

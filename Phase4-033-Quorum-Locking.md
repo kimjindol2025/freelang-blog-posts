@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-033-Quorum-Locking
+date: 2026-03-28
+---
 # Quorum 기반 분산 잠금: 안전하고 빠른 합의
 
 ## 요약

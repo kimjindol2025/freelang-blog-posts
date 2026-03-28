@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-018-Monitoring-Prometheus-Grafana
+date: 2026-03-28
+---
 # 모니터링: Prometheus/Grafana로 99.9% SLA 달성하기
 
 ## 요약

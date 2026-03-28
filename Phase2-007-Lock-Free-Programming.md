@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase2-007-Lock-Free-Programming
+date: 2026-03-28
+---
 # Lock-Free 프로그래밍: Atomic 연산과 CAS 알고리즘
 
 **작성**: 2026-03-27

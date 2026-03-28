@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-013-Microservices-Circuit-Breaker
+date: 2026-03-28
+---
 # 마이크로서비스: Circuit Breaker 패턴으로 장애 격리하기
 
 ## 요약

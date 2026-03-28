@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase4-032-Vector-Clock
+date: 2026-03-28
+---
 # Vector Clock: 분산 시스템의 인과관계 추적
 
 ## 요약

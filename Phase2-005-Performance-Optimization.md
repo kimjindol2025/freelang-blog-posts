@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase2-005-Performance-Optimization
+date: 2026-03-28
+---
 # 성능 최적화: 10K → 50K req/sec로 5배 향상
 
 **작성**: 2026-03-27

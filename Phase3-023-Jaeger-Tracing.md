@@ -1,3 +1,8 @@
+---
+layout: post
+title: Phase3-023-Jaeger-Tracing
+date: 2026-03-28
+---
 # Jaeger: 분산 시스템 병목 분석 완벽 가이드
 
 ## 요약
