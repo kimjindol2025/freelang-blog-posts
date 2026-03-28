@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "=== Phase 3 포스트 생성 계획 ==="
+echo ""
+echo "✅ 완료 (12개):"
+echo "  - Phase3-011 ~ Phase3-023"
+echo ""
+echo "📝 남은 것 (8개):"
+echo "  - Phase3-024: Kafka vs RabbitMQ"
+echo "  - Phase3-025: AWS EC2 튜닝"
+echo "  - Phase3-026: Goroutine vs Thread"
+echo "  - Phase3-027: 정규표현식 최적화"
+echo "  - Phase3-028: Nginx 완벽 가이드"
+echo "  - Phase3-029: B-Tree vs LSM"
+echo "  - Phase3-030: strace 성능 분석"
+echo ""
+echo "예상: 2시간 내 모두 완료"

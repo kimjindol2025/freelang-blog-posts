@@ -1,0 +1,85 @@
+# 배치 파일 생성 (Phase3-017 ~ Phase3-030 14개 포스트 요약)
+
+## Phase3-017: 로깅 시스템 ELK Stack
+- Elasticsearch: 로그 저장 및 검색
+- Logstash: 로그 처리 파이프라인
+- Kibana: 시각화 및 분석
+- 실전: 1일 100GB 로그 처리 사례
+
+## Phase3-018: 모니터링 Prometheus/Grafana
+- Prometheus: 메트릭 수집
+- Grafana: 대시보드 시각화
+- 알림 규칙 설정
+- 실전: 99.9% SLA 모니터링
+
+## Phase3-019: CI/CD GitHub Actions
+- Workflow 작성
+- 테스트 자동화
+- 자동 배포
+- 실전: 10초 배포 파이프라인
+
+## Phase3-020: 컨테이너 최적화 Docker
+- 레이어 최적화
+- 멀티 스테이지 빌드
+- 이미지 크기 줄이기
+- 벤치마크: 1GB → 50MB (20배)
+
+## Phase3-021: 네트워킹 TCP/IP 깊이 있게
+- 패킷 구조 분석
+- 포트 및 소켓
+- 네트워크 성능 튜닝
+- tcpdump/Wireshark 분석
+
+## Phase3-022: 보안 OAuth2/JWT
+- OAuth2 플로우
+- JWT 서명 및 검증
+- 보안 모범 사례
+- 실전: 100만 사용자 인증
+
+## Phase3-023: 분산 추적 Jaeger
+- 분산 트레이싱 원리
+- 스팬 샘플링
+- 실시간 모니터링
+- 실전: 마이크로서비스 병목 분석
+
+## Phase3-024: 메시징 Kafka vs RabbitMQ
+- Kafka: 고성능 스트림
+- RabbitMQ: 신뢰성
+- 성능 벤치마크
+- 실전: 실시간 이벤트 처리
+
+## Phase3-025: 클라우드 AWS EC2 성능 튜닝
+- 인스턴스 타입 선택
+- EBS 최적화
+- 네트워크 성능
+- 비용 절감 전략
+
+## Phase3-026: 동시성 Goroutine vs Thread
+- 메모리 비교
+- 컨텍스트 스위칭
+- 성능 벤치마크
+- 실전: 100만 동시 연결
+
+## Phase3-027: 정규표현식 성능 최적화
+- 백트래킹 이해
+- Regex 엔진 비교
+- 성능 벤치마크
+- 실전: 로그 파싱 10배 가속화
+
+## Phase3-028: 웹서버 Nginx 설정 완벽 가이드
+- 로드 밸런싱
+- 캐싱 전략
+- SSL/TLS 설정
+- 실전: 50K req/sec 처리
+
+## Phase3-029: 데이터 구조 B-Tree vs LSM
+- B-Tree: 읽기 최적화
+- LSM: 쓰기 최적화
+- 성능 분석
+- 실전: 데이터베이스 선택
+
+## Phase3-030: 성능 분석 strace로 시스템 콜 추적
+- 시스템 콜 이해
+- strace 사용법
+- 병목 분석
+- 실전: 응답시간 1/10로 단축
