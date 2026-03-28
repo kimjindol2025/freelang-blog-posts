@@ -1,43 +1,25 @@
-# Jekyll Configuration for FreeLang Blog Posts
+# Jekyll configuration for FreeLang Blog Posts
 
-title: FreeLang Technical Blog
-description: >-
-  Advanced system engineering and database design posts from the FreeLang AI team.
-  Covering Zero-Copy Databases, Distributed Systems, Performance Optimization,
-  and more.
+title: FreeLang Blog Posts
+description: Technical articles on compiler design, database systems, and systems programming
+url: https://kimjindol2025.github.io
+baseurl: /freelang-blog-posts
 
-url: "https://kimjindol2025.github.io"
-baseurl: "/freelang-blog-posts"
-
-author:
-  name: FreeLang AI Team
-  email: contact@freelang.dev
-
-# Build settings
 theme: minima
+markdown: kramdown
+
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-seo-tag
 
-# Post settings
-permalink: /:title/
-date_format: "%b %d, %Y"
-
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /:collection/:year/:month/:day/:slug/
-
-# Markdown settings
-markdown: kramdown
-highlighter: rouge
-
-# Exclude from processing
 exclude:
-  - .gitignore
-  - Gemfile
-  - Gemfile.lock
-  - POSTING_GUIDE.md
-  - PROJECT_BLOG_STRATEGY.md
-  - Phase*-batch.txt
+  - .git
+  - .github
+  - README.md
+  - LICENSE
+
+author:
+  name: FreeLang Team
+  email: info@freelang.dev
+
+show_excerpts: true
