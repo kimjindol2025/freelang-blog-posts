@@ -1,0 +1,86 @@
+# FreeLang 기술 블로그 - Jekyll Chirpy 설정
+
+title: FreeLang 기술 블로그
+tagline: "시스템 프로그래밍, 분산 시스템, 성능 최적화"
+description: >-
+  FreeLang 팀의 기술 블로그입니다. 데이터베이스 최적화, 분산 시스템,
+  성능 튜닝, Go/Rust 저수준 프로그래밍에 대한 깊이 있는 글을 공유합니다.
+
+url: "https://kimjindol2025.github.io"
+baseurl: "/freelang-blog-posts"
+
+author:
+  name: FreeLang
+  url: https://github.com/kimjindol2025
+
+github:
+  username: kimjindol2025
+
+theme: jekyll-theme-chirpy
+
+lang: ko-KR
+timezone: Asia/Seoul
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: "highlight"
+    block:
+      line_numbers: true
+
+rouge:
+  theme: base16.solarized-dark
+
+source: .
+destination: ./_site
+
+exclude:
+  - "*.sh"
+  - "*.js"
+  - "node_modules"
+  - "package.json"
+  - "package-lock.json"
+  - "POSTING_GUIDE.md"
+  - "PROJECT_BLOG_STRATEGY.md"
+  - "SERVER_PROJECT_ROADMAP.md"
+  - "README_COMPLETION.md"
+  - "SETUP.md"
+  - "USAGE.md"
+  - "tech-trends-2026-analysis.md"
+  - "blog-analysis"
+  - Gemfile
+  - Gemfile.lock
+  - "vendor"
+  - ".bundle"
+
+paginate: 10
+paginate_path: "/page/:num/"
+
+permalink: /posts/:slug/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+toc: true
+
+comments:
+  active: utterances
+  utterances:
+    repo: kimjindol2025/freelang-blog-posts
+    issue_term: pathname
+
+analytics:
+  google:
+    id: ""
+
+categories:
+  - Phase1-Database
+  - Phase2-Performance
+  - Phase3-Systems
+  - Phase4-Advanced
